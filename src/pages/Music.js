@@ -26,15 +26,14 @@ const Music = () => {
           into instrument-ing. I started out with the trumpet in the school
           band, then the drums, then the guitar which is when I started song
           writing. I've dabbled here and there with other instruments like piano
-          and bass to satisfy the demands of the songs I've written, and I've
-          written quite a few. I find musical inspiration through artists like
-          Hank Williams Sr, Benjamin Todd, Pete Bernhard, Towns Van Zandt,
-          Johnny Cash, Brian May, Maynard Keenan, Rivers Quomo, Trent Resnor,
-          and the Gallagher bothers to name a few. I write my songs from the
-          heart about things I've experienced. Song writing is my main outlet.
-          Although I plan to have all my songs eventually recorded
-          professionally, I have a amateur music recording setup at home. Here
-          are some rough home recordings of a few originals.
+          and bass to satisfy the demands of the songs I've written. I find
+          musical inspiration through artists like Hank Williams Sr, Benjamin
+          Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May, Maynard
+          Keenan, Rivers Quomo, Trent Resnor, and the Gallagher bothers to name
+          a few. I mostly write songs about my life and things I've experienced.
+          it is my passion. Although I plan to one da have all my songs recorded
+          professionally, I have a small music recording setup at home. Here are
+          some rough home recordings of a few originals.
           <div className='songs'>
             <div className='song'>
               <div className='song-title'> a lifetime with you</div>
