@@ -20,12 +20,14 @@ body {
   width: 100%;
   display: flex;
   justify-content: flex-end;
+  margin-right: 20px;
 }
 .nav-links a {
   font-weight: lighter;
   text-decoration: none;
   display: block;
   margin: 20px;
+
   font-size: 18pt;
   color: white;
 }
