@@ -31,7 +31,7 @@ const Music = () => {
           Benjamin Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May,
           Maynard Keenan, Rivers Quomo, Trent Resnor, and the Gallagher bothers
           to name a few. I mostly write songs about my life and things I've
-          experienced. Although I plan to one da have all my songs recorded
+          experienced. Although I plan to one day have all my songs recorded
           professionally, I have a small music recording setup at home. Here are
           some rough home recordings of a few originals.
           <div className='songs'>
