@@ -22,16 +22,16 @@ const Music = () => {
       <div className='content-dark'>
         <div className='page-title-dark'>home recordings</div>
         <div className='page-description-dark'>
-          I've always loved music, but it wasn't until middle school when I got
-          into instrument-ing. I started out with the trumpet in the school
-          band, then the drums, then the guitar which is when I started song
-          writing. I've dabbled here and there with other instruments like piano
-          and bass to satisfy the demands of the songs I've written. I find
-          musical inspiration through artists like Hank Williams Sr, Benjamin
-          Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May, Maynard
-          Keenan, Rivers Quomo, Trent Resnor, and the Gallagher bothers to name
-          a few. I mostly write songs about my life and things I've experienced.
-          it is my passion. Although I plan to one da have all my songs recorded
+          I've always loved music, but it wasn't until middle school that I
+          really got into "instrument-ing". I started out with the trumpet in my
+          school band, then the drums, then the guitar which is when I started
+          song writing. I've dabbled here and there with other instruments like
+          piano and bass to satisfy the demands of the songs I've written. I
+          find musical inspiration through artists like Hank Williams Sr,
+          Benjamin Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May,
+          Maynard Keenan, Rivers Quomo, Trent Resnor, and the Gallagher bothers
+          to name a few. I mostly write songs about my life and things I've
+          experienced. Although I plan to one da have all my songs recorded
           professionally, I have a small music recording setup at home. Here are
           some rough home recordings of a few originals.
           <div className='songs'>
