@@ -1,5 +1,5 @@
 .me-img {
-  margin: 10px;
+  margin: 10px 10px 0px 10px;
   width: 40%;
   min-width: 200px;
   max-width: 500px;
@@ -7,7 +7,7 @@
   /* border-radius: 20px; */
 }
 .me-img-left {
-  margin: 10px 10px 10px 0px;
+  margin: 10px 10px 0px 0px;
   width: 35%;
   min-width: 200px;
   max-width: 500px;

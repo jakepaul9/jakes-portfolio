@@ -4,6 +4,8 @@ import ReactAudioPlayer from 'react-audio-player'
 import './Music.css'
 import './Page.css'
 
+import onStage from '../assets/images/onStage.png'
+
 import song1 from '../assets/songs/A Lifetime With You.m4a'
 import song2 from '../assets/songs/Clean Slate.m4a'
 import song3 from '../assets/songs/Sleep Deprivation.m4a'
@@ -27,14 +29,17 @@ const Music = () => {
           really got into "instrument-ing". I started out with the trumpet in my
           school band, then the drums, then the guitar which is when I started
           song writing. I've dabbled here and there with other instruments like
-          piano and bass to satisfy the demands of the songs I've written. I
-          find musical inspiration through artists like Hank Williams Sr,
-          Benjamin Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May,
-          Maynard Keenan, Rivers Cuomo, Trent Resnor, and the Gallagher bothers
-          to name a few. I mostly write songs about my life and things I've
-          experienced. Although I plan to one day have all my songs recorded
-          professionally, I have a small music recording setup at home. Here are
-          some rough home recordings of a few originals.
+          piano and bass to satisfy the demands of the songs I've written.{' '}
+          <br />
+          <br />
+          <img className='stage-left' src={onStage} alt='on stage' />I find
+          musical inspiration through artists like Hank Williams Sr, Benjamin
+          Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May, Maynard
+          Keenan, Rivers Cuomo, Trent Resnor, and the Gallagher bothers to name
+          a few. I mostly write songs about my life and things I've experienced.
+          Although I plan to one day have all my songs recorded professionally,
+          I have a small music recording setup at home. Here are some rough home
+          recordings of a few originals.
           <div className='songs'>
             <div className='song'>
               <div className='song-title'> a lifetime with you</div>

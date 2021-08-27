@@ -34,7 +34,7 @@
   }
   .page-title {
     padding: 0px;
-    width: 80%;
+    width: 90%;
     font-size: 24pt;
     font-weight: normal;
   }
@@ -43,6 +43,6 @@
     font-weight: normal;
     padding: 0px;
     line-height: 24pt;
-    width: 80%;
+    width: 90%;
   }
 }
