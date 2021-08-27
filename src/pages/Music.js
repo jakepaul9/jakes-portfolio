@@ -5,9 +5,7 @@ import './Music.css'
 
 import song1 from '../assets/songs/A Lifetime With You.m4a'
 import song2 from '../assets/songs/Clean Slate.m4a'
-
 import song3 from '../assets/songs/Sleep Deprivation.m4a'
-
 import song4 from '../assets/songs/Auto Pilot.m4a'
 import song5 from '../assets/songs/Rain Dance.m4a'
 import song6 from '../assets/songs/Damage control.m4a'

@@ -7,16 +7,8 @@ import Music from './pages/Music'
 import Code from './pages/Code'
 import About from './pages/About'
 
-// import { BiPaint } from 'react-icons/bi'
-// import { RiBracesFill, RiHomeLine } from 'react-icons/ri'
-// import { BsMusicNoteBeamed } from 'react-icons/bs'
-// import { FaRegLightbulb } from 'react-icons/fa'
-
 import { Showcases } from './Showcases'
-import { RiBracesFill, RiHomeLine } from 'react-icons/ri'
-import { BiPaint } from 'react-icons/bi'
-import { BsMusicNoteBeamed } from 'react-icons/bs'
-import { FaRegLightbulb } from 'react-icons/fa'
+import { RiHomeLine } from 'react-icons/ri'
 
 const App = () => {
   return (
@@ -38,7 +30,7 @@ const App = () => {
               // activeClassName='pt-clicked-link'
               // style={{ textDecoration: 'none' }}
             >
-              {/* <FaRegLightbulb /> */}me
+              me
             </NavLink>
             <NavLink
               to='/code'
@@ -46,7 +38,7 @@ const App = () => {
               // activeClassName='pt-clicked-link'
               // style={{ textDecoration: 'none' }}
             >
-              {/* <RiBracesFill /> */}code
+              code
             </NavLink>
             <NavLink
               to='/design'
@@ -54,7 +46,7 @@ const App = () => {
               // activeClassName='pt-clicked-link'
               // style={{ textDecoration: 'none' }}
             >
-              {/* <BiPaint /> */}design
+              design
             </NavLink>
             <NavLink
               to='/music'
@@ -62,7 +54,7 @@ const App = () => {
               // activeClassName='pt-clicked-link'
               // style={{ textDecoration: 'none' }}
             >
-              {/* <BsMusicNoteBeamed /> */}music
+              music
             </NavLink>
           </div>
           <Route
