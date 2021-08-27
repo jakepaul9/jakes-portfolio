@@ -1,0 +1,32 @@
+.showcase-item-image {
+  width: 100%;
+  border-radius: 20px;
+}
+.showcase-item-long {
+  width: 500px;
+  margin: 2px;
+}
+.showcase-item {
+  margin: 2px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+}
+@media only screen and (max-width: 600px) {
+  .showcase-item {
+    margin: 2.5px 10px 2.5px 10px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+  }
+  .showcase-item-image {
+    width: 100%;
+    border-radius: 5px;
+  }
+  .showcase-item-long {
+    width: 83%;
+    margin: 5px 10px 5px 10px;
+  }
+}

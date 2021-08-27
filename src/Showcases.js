@@ -1,0 +1,152 @@
+export const Showcases = [
+  {
+    title: 'showcase title',
+    items: [
+      {
+        title: 'Item 12',
+        image: 'images/logo13.png',
+        description: 'This is a description of item 6.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 1',
+        image: 'images/logo1.png',
+        description: 'This is a description of item 1.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 2',
+        image: 'images/logo2.png',
+        description: 'This is a description of item 2.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 3',
+        image: 'images/logo3.png',
+        description: 'This is a description of item 3.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 4',
+        image: 'images/logo4.png',
+        description: 'This is a description of item 4.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 5',
+        image: 'images/logo5.png',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 6',
+        image: 'images/logo6.png',
+        description: 'This is a description of item 6.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 7',
+        image: 'images/logo7.png',
+        description: 'This is a description of item 4.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 8',
+        image: 'images/logo8.png',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 9',
+        image: 'images/logo9.png',
+        description: 'This is a description of item 6.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 10',
+        image: 'images/logo10.png',
+        description: 'This is a description of item 4.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 11',
+        image: 'images/logo11.png',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 12',
+        image: 'images/logo12.png',
+        description: 'This is a description of item 6.',
+        style: 'showcase-item',
+      },
+      {
+        title: 'Item 9',
+        image: 'images/longlogo10.png',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 2',
+        image: 'images/longlogo1.png',
+        description: 'This is a description of item 1.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 3',
+        image: 'images/longlogo2.png',
+        description: 'This is a description of item 2.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 4',
+        image: 'images/longlogo3.png',
+        description: 'This is a description of item 3.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 5',
+        image: 'images/longlogo4.png',
+        description: 'This is a description of item 4.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 6',
+        image: 'images/longlogo5.png',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 7',
+        image: 'images/longlogo6.png',
+        description: 'This is a description of item 6.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 8',
+        image: 'images/longlogo7.png',
+        description: 'This is a description of item 4.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 9',
+        image: 'images/longlogo8.png',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item-long',
+      },
+
+      {
+        title: 'Item 8',
+        image: 'images/flyer1.png',
+        description: 'This is a description of item 4.',
+        style: 'showcase-item-long',
+      },
+      {
+        title: 'Item 9',
+        image: 'images/flyer2.jpg',
+        description: 'This is a description of item 5.',
+        style: 'showcase-item-long',
+      },
+    ],
+  },
+]

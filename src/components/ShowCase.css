@@ -1,0 +1,8 @@
+.showcase {
+  margin: auto;
+  width: 60%;
+}
+.showcase-content {
+  display: flex;
+  overflow-x: auto;
+}

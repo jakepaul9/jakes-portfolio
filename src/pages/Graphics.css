@@ -1,0 +1,48 @@
+.graphics-container {
+  width: 100% !important;
+  background-color: white;
+}
+.page-title {
+  width: 100%;
+  font-size: 36pt;
+  color: #ff5702;
+  padding-left: 100px;
+  margin: 100px 0px 0px 0px;
+}
+.page-description {
+  padding: 0px 100px 0px 100px;
+  font-size: 20pt;
+  line-height: 36pt;
+  margin: 50px 0px 50px 0px;
+  color: #363636;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  width: 70%;
+  margin: auto;
+  background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .content {
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  .page-title {
+    padding: 0px;
+    width: 80%;
+    font-size: 24pt;
+    font-weight: normal;
+  }
+  .page-description {
+    font-size: 16pt;
+    font-weight: normal;
+    padding: 0px;
+    line-height: 24pt;
+    width: 80%;
+  }
+}
