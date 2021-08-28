@@ -7,7 +7,6 @@
   align-items: center;
   width: 50%;
   margin: auto;
-  margin-top: 10px;
   font-weight: lighter;
   /* border: 1px solid white; */
   padding: 0px;
@@ -20,7 +19,7 @@
   justify-content: center;
   align-items: flex-start;
   margin-left: 100px;
-  margin-top: 0px;
+  margin-top: 60px;
 }
 .home-nav {
   /* border: 1px solid white; */
@@ -30,6 +29,7 @@
   justify-content: space-evenly;
   /* width: 50%; */
   margin-right: 50px;
+  margin-top: 60px;
   text-align: left;
 }
 .home-nav a {

@@ -1,26 +1,37 @@
 body {
   color: black;
 }
+.main-nav {
+  background-color: black !important;
+  align-self: flex-end !important;
+}
 .home-link {
   padding-top: 3px;
   color: #7b59c4 !important;
 }
+.jake {
+  background-color: black;
+  width: 100%;
+  position: absolute !important;
+
+  /* left: 1rem; */
+}
 .nav-bar {
   width: 100%;
   /* background-color: #ff5702; */
-  height: 70px;
-  z-index: 999;
-  margin-bottom: 100px;
+  height: 20px !important;
+  /* z-index: 999; */
+  /* margin-bottom: 200px !important; */
 }
 .brand {
   color: #7b59c4;
   font-size: 36pt;
 }
 .nav-links {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 20px;
+  width: 100% !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  margin-right: 60px;
 }
 .nav-links a {
   font-weight: lighter;
@@ -32,7 +43,10 @@ body {
   color: white;
 }
 .nav-links a:hover {
-  color: #ff5702;
+  color: #ff5702 !important;
+}
+.nav-links a:active {
+  color: #ff5702 !important;
 }
 
 @media only screen and (max-width: 600px) {
