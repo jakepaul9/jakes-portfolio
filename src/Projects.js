@@ -18,7 +18,7 @@ let Projects = [
         that was agreed upon during the onboarding process.
         <br /><br />
         The system behind this idea is being built with Node on the backend, 
-        and React Native on the front end. The database is MySQL.`,
+        and React Native on the front end. Data is being stored in a MySQL database.`,
   },
   {
     title: `Assembler`,
