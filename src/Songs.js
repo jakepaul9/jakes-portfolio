@@ -11,6 +11,7 @@ import song10 from './assets/songs/Dark clouds overhead.m4a'
 import song11 from './assets/songs/Simple Song.mp4'
 import song12 from './assets/songs/back to me.m4a'
 import song13 from './assets/songs/Dont get me wrong.m4a'
+import song14 from './assets/songs/Get The Job Done.m4a'
 
 let Songs = [
   { title: 'A Lifetime With You', song: `${song1}` },
@@ -26,6 +27,7 @@ let Songs = [
   { title: 'Simple Song', song: `${song11}` },
   { title: 'Back to Me', song: `${song12}` },
   { title: "Don't Get Me Wrong", song: `${song13}` },
+  { title: 'Get The Job Done', song: `${song14}` },
 ]
 
 export default Songs
