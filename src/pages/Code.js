@@ -20,8 +20,12 @@ const Code = () => {
           work, or make things easier in my personal life by developing an app
           or writing a snippet of code. I enjoy using modern Javascript
           frameworks including those in the MERN stack, and also good ol' C++.
-          I've included projects below I've been/am working on either for
-          school, or those I'm developing on the side.
+          I've included a couple projects below I've been/am working on either
+          for school, or those I'm developing on the side. Feel free to visit my{' '}
+          <a href='https://github.com/jakepaul9' target='_blank'>
+            GitHub
+          </a>{' '}
+          page to browse through other projects I've been working on.
           {Projects.map((item, index) => {
             return (
               <Project key={index} title={item.title} image={item.image}>

@@ -1,4 +1,6 @@
 import cm from './assets/images/CM.png'
+import git from './assets/images/git.png'
+import asm from './assets/images/asm.png'
 
 let Projects = [
   {
@@ -18,6 +20,23 @@ let Projects = [
         <br /><br />
         The system behind this idea is being built with Node on the backend, 
         and React Native on the front end. The database is MySQL.`,
+  },
+  {
+    title: `Assembler`,
+    image: `${asm}`,
+    description: `For my Advanced High Performance Architecture course at UVU we had 
+        to build an assembler from the ground up using the language of our choice. 
+        This included validation, execution and defining an assembly language. for this
+        project I chose to write my assembler in C++.
+        <br />
+        <br />
+        Throughout this course we wrote programs in a unique assembly language, adjusting
+        the assembler to support different kinds of functionality as we went. Our final assembly program 
+        had to produce the fibonacci sequence. The added challenge was to adjust our assembler to handle
+        multithreading. As an end result you could enter in multiple numbers then execute the program which would
+        list out the fibinocci sequence up to each entered number in a multithreaded manner. Click 
+        <a href="https://github.com/jakepaul9/Assembler" target="_blank" >HERE</a> to see my code.
+        `,
   },
 ]
 

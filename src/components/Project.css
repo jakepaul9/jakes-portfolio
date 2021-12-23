@@ -6,7 +6,7 @@
 .project-container {
   width: 90%;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 50px;
   border: 1px solid #7b59c4;
 }
 .project-title {
@@ -22,10 +22,33 @@
 }
 .project-image img {
   max-width: 90%;
+  border: 1px solid white;
 }
 .project-description {
   width: 90%;
   margin: auto;
   margin-bottom: 20px;
   font-size: 16pt;
+}
+.project-description img {
+  text-align: center;
+  width: 50px;
+  margin: auto;
+}
+a {
+  color: #7b59c4;
+  text-decoration: none !important;
+}
+a:visited {
+  color: #7b59c4;
+  text-decoration: none !important;
+}
+a:active {
+  color: #7b59c4;
+  text-decoration: none !important;
+}
+a:hover {
+  color: #7b59c4;
+  text-decoration: none !important;
+  font-weight: bold;
 }
