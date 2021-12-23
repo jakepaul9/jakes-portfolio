@@ -35,19 +35,19 @@
   width: 50px;
   margin: auto;
 }
-a {
+.project-container a {
   color: #7b59c4;
   text-decoration: none !important;
 }
-a:visited {
+.project-container a:visited {
   color: #7b59c4;
   text-decoration: none !important;
 }
-a:active {
+.project-container a:active {
   color: #7b59c4;
   text-decoration: none !important;
 }
-a:hover {
+.project-container a:hover {
   color: #7b59c4;
   text-decoration: none !important;
   font-weight: bold;
