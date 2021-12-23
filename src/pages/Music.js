@@ -35,7 +35,7 @@ const Music = () => {
           <img className='stage-left' src={onStage} alt='on stage' />I find
           musical inspiration through artists like Hank Williams Sr, Benjamin
           Todd, Pete Bernhard, Towns Van Zandt, Johnny Cash, Brian May, Maynard
-          Keenan, Rivers Cuomo, Trent Resnor, and the Gallagher bothers to name
+          Keenan, Rivers Cuomo, Trent Reznor, and the Gallagher bothers to name
           a few. I mostly write songs about my life and things I've experienced.
           Although I plan to one day have all my songs recorded professionally,
           I have a small music recording setup at home. Here are some rough home
