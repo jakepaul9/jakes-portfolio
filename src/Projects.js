@@ -31,7 +31,7 @@ let Projects = [
         <br />
         Throughout this course we wrote programs in a unique assembly language, adjusting
         the assembler to support different kinds of functionality as we went. Our final assembly program 
-        had to produce the fibonacci sequence. The added challenge was to adjust our assembler to handle
+        had to produce the fibonacci sequence from zero up to any given number. The added challenge was to adjust our assembler to handle
         multithreading. As an end result you could enter in multiple numbers then execute the program which would
         list out the fibinocci sequence up to each entered number in a multithreaded manner. Click 
         <a href="https://github.com/jakepaul9/Assembler" target="_blank" rel="noreferrer" >HERE</a> to see my code.
