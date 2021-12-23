@@ -14,7 +14,7 @@ const Code = () => {
       <div className='content-dark'>
         <div className='page-title-dark'>code</div>
 
-        <div className='page-description-dark'>
+        <div className='page-description-dark code'>
           The endless potential to solve problems with a programming language is
           very exciting to me. I enjoy thinking of ways to improve processes at
           work, or make things easier in my personal life by developing an app
