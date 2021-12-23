@@ -13,19 +13,19 @@ import song12 from './assets/songs/back to me.m4a'
 import song13 from './assets/songs/Dont get me wrong.m4a'
 
 let Songs = [
-  { title: 'A Lifetime With You', song: { song1 } },
-  { title: 'Clean Slate', song: { song2 } },
-  { title: 'Sleep Deprivation', song: { song3 } },
-  { title: 'Auto Pilot', song: { song4 } },
-  { title: 'Rain Dance', song: { song5 } },
-  { title: 'Damage control', song: { song6 } },
-  { title: 'A Moment Of Silence', song: { song7 } },
-  { title: 'Never let it die', song: { song8 } },
-  { title: 'Wordsmith', song: { song9 } },
-  { title: 'Dark clouds overhead', song: { song10 } },
-  { title: 'Simple Song', song: { song11 } },
-  { title: 'Back to Me', song: { song12 } },
-  { title: "Don't Get Me Wrong", song: { song13 } },
+  { title: 'A Lifetime With You', song: `${song1}` },
+  { title: 'Clean Slate', song: `${song2}` },
+  { title: 'Sleep Deprivation', song: `${song3}` },
+  { title: 'Auto Pilot', song: `${song4}` },
+  { title: 'Rain Dance', song: `${song5}` },
+  { title: 'Damage control', song: `${song6}` },
+  { title: 'A Moment Of Silence', song: `${song7}` },
+  { title: 'Never let it die', song: `${song8}` },
+  { title: 'Wordsmith', song: `${song9}` },
+  { title: 'Dark clouds overhead', song: `${song10}` },
+  { title: 'Simple Song', song: `${song11}` },
+  { title: 'Back to Me', song: `${song12}` },
+  { title: "Don't Get Me Wrong", song: `${song13}` },
 ]
 
 export default Songs

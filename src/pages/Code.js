@@ -22,7 +22,11 @@ const Code = () => {
           frameworks including those in the MERN stack, and also good ol' C++.
           I've included a couple projects below I've been/am working on either
           for school, or those I'm developing on the side. Feel free to visit my{' '}
-          <a href='https://github.com/jakepaul9' target='_blank'>
+          <a
+            href='https://github.com/jakepaul9'
+            target='_blank'
+            rel='noreferrer'
+          >
             GitHub
           </a>{' '}
           page to browse through other projects I've been working on.

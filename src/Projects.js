@@ -1,5 +1,4 @@
 import cm from './assets/images/CM.png'
-import git from './assets/images/git.png'
 import asm from './assets/images/asm.png'
 
 let Projects = [
@@ -35,7 +34,7 @@ let Projects = [
         had to produce the fibonacci sequence. The added challenge was to adjust our assembler to handle
         multithreading. As an end result you could enter in multiple numbers then execute the program which would
         list out the fibinocci sequence up to each entered number in a multithreaded manner. Click 
-        <a href="https://github.com/jakepaul9/Assembler" target="_blank" >HERE</a> to see my code.
+        <a href="https://github.com/jakepaul9/Assembler" target="_blank" rel="noreferrer" >HERE</a> to see my code.
         `,
   },
 ]
