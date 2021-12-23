@@ -1,3 +1,8 @@
+.emph {
+  color: #7b59c4;
+  font-weight: bold;
+}
+
 .project-container {
   width: 90%;
   margin: auto;
