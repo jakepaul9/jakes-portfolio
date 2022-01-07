@@ -34,7 +34,7 @@ body {
   margin-right: 60px;
 }
 .nav-links a {
-  font-weight: lighter;
+  /* font-weight: lighter; */
   text-decoration: none;
   display: block;
   margin: 20px;
