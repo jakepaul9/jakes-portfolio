@@ -20,7 +20,9 @@ const About = () => {
           highschool in 2009 I left my hometown to serve a two year mission in
           Orlando Florida for my church. I returned home, moved to Utah and 6
           months later <span className='emph'> married</span> my girlfriend of
-          over two years. She runs an interior design company called <a href="https://design.misitdae.com">Design by Misti Dae</a><br />
+          over two years. She runs an interior design company called{' '}
+          <a href='https://design.mistidae.com'>Design by Misti Dae</a>
+          <br />
           <br />I started my college education at SLCC, then later transfered to
           <span className='emph'> UVU</span> where I graduated in December 2020
           with my bachelors degree in
